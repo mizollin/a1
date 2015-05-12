@@ -1,0 +1,38 @@
+#header {
+    background-color:yellow;
+    color:black;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:10%;
+    background-color:aqua;
+    height:30%;
+    min-height: 300px;
+    width:10%;
+    float:left;
+    padding:0px;
+}
+#content {
+    width:80%;
+    float:left;
+    padding:0px;
+    background-color: aquamarine;
+    min-height: 300px;
+}
+#footer {
+    background-color:yellow;
+    color:black;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+#sidebar {
+    width:10%;
+    float:right;
+    padding:0px;
+    text-align: left;
+    color: black;
+    background-color: cadetblue;
+    height: 300px;
+}
